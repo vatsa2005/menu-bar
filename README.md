@@ -1,4 +1,4 @@
-# Menu Bar
+# React Menu Bar
 - Menu bar React component.
 
 ## Dependancies to be installed before using
