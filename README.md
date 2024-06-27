@@ -2,8 +2,7 @@
 - Menu bar React component.
 
 ## Dependancies to be installed before using
-- ```npm install react```
-- ```npm install react-dom```
+
 - ```npm install @mui/icons-material @mui/material @emotion/styled @emotion/react```
 
 ## Copy the Menu.js and menu.css files and paste them into your React project.
